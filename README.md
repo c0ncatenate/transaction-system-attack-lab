@@ -66,6 +66,10 @@ without modelling any specific real-world system.
 
 ---
 
+## Visual overview
+
+![Finding IDOR in a transaction system](diagrams/idor-flow.png)
+
 ## Documentation
 
 Detailed docs live under `docs/`:
